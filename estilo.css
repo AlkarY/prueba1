@@ -2,3 +2,7 @@ html {
     background-color: darkorange;
     color: white;
 }
+
+h1 {
+    font-size: 5rem;
+}
